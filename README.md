@@ -1,3 +1,5 @@
+**Please do not check the code if you intend to find the solutions to the exercises yourself! You have been warned.**
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
